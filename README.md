@@ -1,1 +1,1 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ADADAD&title_bg=%23FFE4EE&icon=&icon_color=%23FFCEE7&title=HITS&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0JUUU&count_bg=%23CDCDCD&title_bg=%23F6F2D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
