@@ -22,6 +22,6 @@
 <br>
 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=0JUUU&show_icons=true&theme=radical" height="180">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=0JUUU&show_icons=true&theme=radical" height="180" width="50%">
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=clleo97">
